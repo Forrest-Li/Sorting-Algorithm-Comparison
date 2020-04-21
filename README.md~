@@ -43,4 +43,3 @@ Compare execution time between five algorithms:
    * Best case: O(nlog(n))
 
    * Worst case: O(nlog(n))
-
