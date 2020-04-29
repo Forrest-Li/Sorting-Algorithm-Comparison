@@ -26,6 +26,8 @@ by applying each algorithm on number sets of sizes: 50,000, 100,000, 150,000, 20
 
 * Including `.c` & `.h` code files inthis repo.
 
+* Including a visualization ipynb based on c program output
+
 * Also including a report(Chinese) in this repo.
 
 **Estimated future enhancements**
@@ -34,21 +36,13 @@ by applying each algorithm on number sets of sizes: 50,000, 100,000, 150,000, 20
 
 * Split execution of the 5 algorithms that needs integration.
 
-* More sorting algorithms can be included.
+* More sorting algorithms could be included.
 
 **Results**
 
-![5 Sorting Algorithms](https://i.imgur.com/tdye901.png) 
+![5 Sorting Algorithms](https://i.imgur.com/qS1PBZE.png) 
 
-![Bubble Sort](https://i.imgur.com/Hmue76o.png)
-
-![Insertion Sort](https://i.imgur.com/FpPXJdM.png)
-
-![Quick Sort](https://i.imgur.com/kqDYHbu.png)
-
-![Heap Sort](https://i.imgur.com/pR2Uu0v.png)
-
-![Selection Sort](https://i.imgur.com/MXjRdAb.png)
+![Sorting Algorithms](https://i.imgur.com/atGn0Vl.png)
 
 ---
 
